@@ -1,0 +1,1 @@
+grep -rl 'nginx-01.com' /c/Playtika | xargs sed -i 's/nginx-01.com/111/g'
